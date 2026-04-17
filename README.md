@@ -3,7 +3,7 @@
 <!-- BANNER IMAGE — replace this URL with your own uploaded image anytime! -->
 ![header](https://capsule-render.vercel.app/api?type=rect&color=0:ff6eb4,50:ff3cac,100:784ba0&height=200&section=header&text=Hi%20there%2C%20I'm%20Christine%20P.%20De%20Padua%20%F0%9F%91%8B&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Fullstack%20Developer%20in%20Progress%20%C2%B7%20BS%20Information%20Technology%20Student%20%C2%B7%20Philippines%20%F0%9F%87%B5%F0%9F%87%AD&descAlignY=62&descSize=14)
 
-*Building beautiful things with code, one commit at a time ✨*
+*Sa langit walang git push origin main✨*
 
 <br/>
 
@@ -94,7 +94,7 @@ const Christine = {
 
 <div align="center">
 
-*Thanks for visiting my profile! Feel free to check out my repos 🌟*
+made with ♥ & too much caffeine  ·  Mamamoblue🌟*
 
 ![Wave](https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=80&section=footer)
 
