@@ -56,17 +56,6 @@ const Christine = {
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ChristinePDP&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ChristinePDP&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 ---
 
 ## 📌 Featured Projects
