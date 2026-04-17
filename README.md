@@ -19,11 +19,10 @@
 ```javascript
 const Christine = {
   name:       "Christine P. De Padua",
-  location:   "Philippines 🇵🇭",
-  role:       "CS Student & Aspiring Frontend Developer",
-  currently:  ["Learning JavaScript deeply", "Practicing UI/UX design"],
-  goals:      ["Build a portfolio site", "Land my first dev job"],
-  funFact:    "My GitHub profile pic is a hamster with a gun 🐹🔫"
+  location:   "Philippines",
+  role:       "Taga luto ng Canton",
+  currently:  ["Minamahal ka"],
+  goals:      ["Mabuhay ng payapa kung saan walang coomit"]
 };
 ```
 
