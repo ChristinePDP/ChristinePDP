@@ -41,12 +41,12 @@ const Christine = {
 ---
 
 
-<div align="center">
+<!-- <div align="center">
 
 <img height="175em" src="https://github-readme-stats.vercel.app/api?username=ChristinePDP&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=ff6eb4&icon_color=c084fc&text_color=e6edf3&bg_color=0d1117"/>
 <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristinePDP&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=ff6eb4&text_color=e6edf3&bg_color=0d1117"/>
 
-</div>
+</div> -->
 
 <div align="center">
 
